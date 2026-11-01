@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react';
 // https://zhock19.github.io/portfolio-2--SALE/
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio-2--SALE/',
+  base: '/portfolio-react/',
 });
